@@ -119,7 +119,7 @@ Always open for collaboration, projects, and opportunities.
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=numcodes&show_icons=true&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=FF6EC7&icon_color=00D4AA&text_color=FFFFFF&count_private=true&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=numcodesr&layout=compact&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=FF6EC7&text_color=FFFFFF&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=numcodes&layout=compact&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=FF6EC7&text_color=FFFFFF&langs_count=8"/>
 </div>
 
 <!-- Modified Streak Stats with Custom Values -->
