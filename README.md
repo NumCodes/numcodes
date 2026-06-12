@@ -73,14 +73,14 @@ Always open for collaboration, projects, and opportunities.
               </a>
             </td>
             <td style="padding: 8px;">
-              <a href="#">
+              <a href="https://www.linkedin.com/in/ugochukwu-nweze-08812a2b8">
                 <img src="https://img.shields.io/badge/💼_LINKEDIN-00D4AA?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117&color=00D4AA" alt="LinkedIn"/>
               </a>
             </td>
           </tr>
           <tr>
             <td style="padding: 8px;">
-              <a href="#">
+              <a href="https://iamnumcodes.vercel.app/">
                 <img src="https://img.shields.io/badge/🌐_WEBSITE-FFD700?style=for-the-badge&logo=firefox&logoColor=white&labelColor=0D1117&color=FFD700" alt="Portfolio"/>
               </a>
             </td>
